@@ -10,4 +10,8 @@ ls (list) = indica os arquivos do diretorio atual
 cd (change directory)         = muda o diretorio
   cd pasta -> muda para pasta do diretorio
   cd ..    -> retorna para o diretori pai
-  cd caminho/absoluto/diretorio             
+  cd caminho/absoluto/diretorio
+
+## branch (ramos) & versionamento
+
+head -> versao atual do codigo (ultimo commit)

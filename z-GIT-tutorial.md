@@ -24,3 +24,6 @@ head -> versao atual do codigo (ultimo commit)
 
 ## Fazendo o Merge
 git merge nomeBranch -> Unir branch ativa/atual com outra branch (nomeBranch)
+OBS: o merge é sucedido de um commit para registrar a fusão (esse commit pode ser auto ou manual)
+
+DICA: por 'default', o editor do gitbash é o VIM. Assim, quando finalizar um "merge", edite a menssagem do merge/commit e execute ": + x + enter".

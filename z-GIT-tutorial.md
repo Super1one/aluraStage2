@@ -31,4 +31,5 @@ DICA: por 'default', o editor do gitbash é o VIM. Assim, quando finalizar um "m
 OBS2: O merge não exclui nenhuma das branch fundidas e o código se torna identico em ambas timeline
 
 # trazer commit da paralelar para a master
-git rebase branchParalela -> traz os commits da branch paralela para a timeline da master
+git rebase branchParalela -> faz a união dos historicos de commits das branchs
+DICA: talvez a ideia seja eliminar uma branch
